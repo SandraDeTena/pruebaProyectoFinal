@@ -1,0 +1,10 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.navbarnavbar-expand-lgnavbar-lightbg-light{
+    background-color: brown;
+    padding: 30px;
+}
